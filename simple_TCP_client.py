@@ -1,4 +1,4 @@
-import socket 
+import socket # библиотека для 
 
 target_host = "0.0.0.0"
 target_port = 9998
